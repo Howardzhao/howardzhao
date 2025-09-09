@@ -9,11 +9,11 @@ entries:
         url: https://zhao.im
       - title: "Weblog of Howard Zhao"
 
-  - title: all posts
+  - title: 最近日志
     post_list:
-      limit: 5
+      limit: 15
       show_more: true
-      show_more_text: See archive...
+      show_more_text: 更多日志...
       show_more_url: archive.html
 
   - title: posts by category
