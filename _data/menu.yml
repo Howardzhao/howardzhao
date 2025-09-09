@@ -18,20 +18,19 @@ entries:
 
   - title: posts by category
     post_list:
-      category: weblog
+      category: fixed
       show_more: true
       show_more_text: See more posts...
-      show_more_url: weblog-archive.html
+      show_more_url: fixed-archive.html
 
   - title: rss
     url: feed.xml
 
-  - title: another list
+  - title: Page list
     entries:
-      - title: with subitems
+      - title: Say something to myself...
         entries:
-          - title: with subsubitems
-          - title: about page
+          - title: About page
             url: about
   - title: PRO TIP
     entries:
