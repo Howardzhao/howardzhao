@@ -4,10 +4,10 @@
 entries:
   - title: info
     entries:
-      - title: HowardZhao.com.
-      - title: Home Link
-        url: https://zhao.im
+      - title: HowardZhao.com
+        url: https://howardzhao.com
       - title: "Weblog of Howard Zhao"
+        url: https://howardzhao.com/about.html
 
   - title: 最近日志
     post_list:
@@ -18,20 +18,20 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: weblog
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: weblog-archive.html
 
   - title: rss
     url: feed.xml
-  
+
   - title: another list
     entries:
       - title: with subitems
         entries:
           - title: with subsubitems
-          - title: example page
+          - title: about page
             url: about
   - title: PRO TIP
     entries:
