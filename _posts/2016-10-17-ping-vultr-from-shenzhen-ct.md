@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 深圳电信Vultr测速Ping值
-date: 2016-10-17
+date: 2016-10-17 18:50
 categories:
   - Weblog
 description:
-image: https://howardzhao.net/Media/20161010-01.jpg
-image-sm: https://howardzhao.net/Media/20161010-01s.jpg
+image: /Media/2016-10-17-ping-vultr-from-shenzhen-ct.jpg
+image-sm: /Media/2016-10-17-ping-vultr-from-shenzhen-ct.jpg
 ---
 
 服务器信息来源 ：[https://www.vultr.com/faq/](https://www.vultr.com/faq/)    

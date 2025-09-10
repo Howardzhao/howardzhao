@@ -1,15 +1,15 @@
 ---
-title: "Nexus5联通166号码无法使用数据网络问题修复"
-subtitle: None
-author: "zhaohao"
-categories: ["Diary"]
-description: "Diary of zhao"
-tags: ["net"]
-image: "/assets/template/bgp10.jpg"
-comments: True
-layout: post 
-date: 2018-02-20T09:30:01Z
+layout: post
+title: Nexus5联通166号码无法使用数据网络问题修复
+subtitle: 
+date: 2018-02-20 09:30:27 +0800
+author: zhaohao
+categories:
+  - Diary
+description: 
+image: /assets/img/bg-bluemushroom.jpg
 ---
+
 订了联通的166号码，在iPhone、MI6、ZIMIFI上使用一切正常，但是换到破解了联通4G使用功能的Nexus5上只能拨打电话收发短信无法使用数据网络，而这台N5之前使用其它联通号码用数据网络完全无问题。   
 
 对比发现插入此166号码卡后N5移动网络设置中的 接入点名称(APN) 列表为空，选择新建接入点则出现错误提示“此用户无权修改接入点名称设置”。   
@@ -36,7 +36,6 @@ date: 2018-02-20T09:30:01Z
     />
 ``` 
 
-comments: true 
 -----
 
 ps:附加信息：

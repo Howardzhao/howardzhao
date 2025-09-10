@@ -1,15 +1,14 @@
 ---
-title: "申请免费赛门铁克VeriSign-DV-SSL证书"
-categories: ["Weblog"]
-tags: ["net"]
-description: "Diary of zhao"
-image: "/media/images/2016-11-12-symantec-dv-ssl.jpg"
-image-sm: "/media/images/2016-11-12-symantec-dv-ssl.jpg"
-comments: True
-layout: post 
-date: 2016-11-12T08:00:01Z
+layout: post
+title: 申请免费赛门铁克VeriSign-DV-SSL证书
+date: 2016-11-12 08:00:00 +0800
+categories:
+  - Weblog
+description:
+image: /Media/2016-11-12-symantec-dv-ssl.jpg
+image-sm: /Media/2016-11-12-symantec-dv-ssl.jpg
 ---
-![20111111-20161111](/media/images/2016-11-12-symantec-dv-ssl.jpg)    
+![20111111-20161111](/Media/2016-11-12-symantec-dv-ssl.jpg)    
 
 经过了StartSSL风波，最近一直使用acme.sh签署Let's Encrypt的ECC证书。    
 今天偶然发现通过阿里云可以免费签署赛门铁克VeriSign的DV域名验证级别的一年期证书，马上尝试了下。  
@@ -24,7 +23,7 @@ date: 2016-11-12T08:00:01Z
 签发者信息：
 CN = Symantec Basic DV SSL CA - G1
 OU = Domain Validated SSL
-OU = Symantec TrusTNetwork
+OU = Symantec Trust Network
 O  = Symantec Corporation
 C  = US 
 ```
