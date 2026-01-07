@@ -1,11 +1,14 @@
 ---
 layout: post
-title: New Facebook Mail~
-date: 2010-12-13 23:20
-author: zhaohao
-comments: true
-categories: [weblog]
+title: "New Facebook Mail~"
+date: 2010-12-13
+categories: 
+  - "weblog"
 ---
-<a href="/Media/FBmail-746507.png"><img src="/Media/FBmail-746507.png" border="0" alt="" id="BLOGGER_PHOTO_ID_5550187149877235410" /></a>
 
-<div>http://haozhao.blogspot.com/</div>
+[![](images/FBmail-746507.png)](https://zme.life/wp-content/uploads/FBmail-746507.png)  
+  
+
+stardust@live.com
+
+stardust@live.com

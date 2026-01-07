@@ -1,11 +1,13 @@
 ---
 layout: post
-title: karunesh Follow Your Heart
-date: 2014-09-11 21:06
-author: zhaohao
-comments: true
-categories: [weblog]
+title: "karunesh Follow Your Heart"
+date: 2014-09-11
+categories: 
+  - "weblog"
 ---
-<p><audio controls="controls"><source src="/Media/karunesh_follow_your_heart.mp3" type="audio/mp3">HTML5 audio not supported!</audio></p>
-&nbsp;
+
+\[audio mp3="/wp-content/uploads/karunesh\_follow\_your\_heart.mp3"\]\[/audio\]  
+   
 ▲ karunesh Follow Your Heart
+
+stardust@live.com

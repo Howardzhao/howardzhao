@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Green bamboo leaves
-date: 2012-04-27 15:20
-author: zhaohao
-comments: true
-categories: [weblog]
+title: "Green bamboo leaves"
+date: 2012-04-27
+categories: 
+  - "weblog"
 ---
-Green bamboo leaves
 
-<a href="/Media/tumblr_m32rtlhscy1qktd12o1_1280.jpg"><img src="/Media/tumblr_m32rtlhscy1qktd12o1_1280.jpg" alt="tumblr_m32rtlhscy1qktd12o1_1280" width="660" height="495" class="alignnone size-large wp-image-10416" /></a>
-
-<a href="/Media/tumblr_m32rtlhscy1qktd12o2_1280.jpg"><img src="/Media/tumblr_m32rtlhscy1qktd12o2_1280.jpg" alt="tumblr_m32rtlhscy1qktd12o2_1280" width="660" height="495" class="alignnone size-large wp-image-10417" /></a>
-
+Green bamboo leaves  
+  
+[![tumblr_m32rtlhscy1qktd12o1_1280](images/tumblr_m32rtlhscy1qktd12o1_1280.jpg)](https://zme.life/wp-content/uploads/tumblr_m32rtlhscy1qktd12o1_1280.jpg)  
+  
+[![tumblr_m32rtlhscy1qktd12o2_1280](images/tumblr_m32rtlhscy1qktd12o2_1280.jpg)](https://zme.life/wp-content/uploads/tumblr_m32rtlhscy1qktd12o2_1280.jpg)  
+  
 Posted on 2012-04-27 15:20
+
+stardust@live.com

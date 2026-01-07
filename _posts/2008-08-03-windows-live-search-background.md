@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Windows Live search background
-date: 2008-08-03 22:31
-author: zhaohao
-comments: true
-categories: [weblog]
+title: "Windows Live search background"
+date: 2008-08-03
+categories: 
+  - "weblog"
 ---
-<a href="/Media/windowslivesearch_bg-787659.jpg"><img class="alignnone size-full wp-image-464" src="/Media/windowslivesearch_bg-787659.jpg" alt="windowslivesearch_bg-787659" width="958" height="559" /></a>
 
+[![windowslivesearch_bg-787659](images/windowslivesearch_bg-787659.jpg)](https://zme.life/wp-content/uploads/windowslivesearch_bg-787659.jpg)  
+  
 Posted on 2008-08-03 22:31
+
+stardust@live.com

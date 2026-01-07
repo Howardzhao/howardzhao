@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Wallpaper QQ
-date: 2008-12-13 14:07
-author: zhaohao
-comments: true
-categories: [weblog]
+title: "Wallpaper QQ"
+date: 2008-12-13
+categories: 
+  - "weblog"
 ---
-<a href="/Media/wallpaper-qq-vip-200812.jpg"><img src="/Media/wallpaper-qq-vip-200812.jpg" alt="wallpaper-qq-vip-200812" width="1024" height="768" class="alignnone size-full wp-image-616" /></a>
+
+[![wallpaper-qq-vip-200812](images/wallpaper-qq-vip-200812.jpg)](https://zme.life/wp-content/uploads/wallpaper-qq-vip-200812.jpg)  
 Posted on 2008-12-13 14:07
+
+stardust@live.com
