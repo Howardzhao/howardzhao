@@ -6,12 +6,12 @@ entries:
     entries:
       - title: HowardZhao.com
         url: https://howardzhao.com
-      - title: "Weblog of Howard Zhao"
+      - title: "关于"
         url: https://howardzhao.com/about.html
 
   - title: 最近日志
     post_list:
-      limit: 15
+      limit: 25
       show_more: true
       show_more_text: 更多日志...
       show_more_url: archive.html
